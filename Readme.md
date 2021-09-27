@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг»
 
 * Студент: [Владимир Кочеванов](https://up.htmlacademy.ru/javascript/24/user/1713377).
-* Наставник: `Неизвестно`.
+* Наставник: [Максим Прусаков](https://htmlacademy.ru/profile/hikikomori).
 
 ---
 
